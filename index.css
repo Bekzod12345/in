@@ -1,0 +1,80 @@
+.box2{
+    display: grid;
+}
+
+.a1{
+    width: 200px;
+    height: 300px;
+    background-image: url(/Без\ названия.jpg);
+background-size: cover;
+    font-size: small;
+    border-radius: 10px;
+    justify-content: end;
+    
+}
+.box3{
+    display: grid;
+    justify-content: center;
+    grid-template-columns: auto auto;
+
+    grid-template-rows: auto auto auto;
+  gap: 10px;
+}
+.a2{
+    width: 200px;
+    height: 200px;
+    background-image: url(/a.jpg);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+  background-size: cover;
+
+}
+
+.a3{
+    width: 200px;
+    height: 200px;
+    background-image: url(/z.jpg);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    background-size: cover;
+}
+body{
+    background-image: url(/d.jpg);
+    background-size: cover;
+}
+.a4{
+    width: 200px;
+    height: 200px;
+    background-image: url(/q.jpg);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    background-size: cover;
+}
+.box1{
+    display: grid;
+    grid-template-columns: auto auto auto;
+}
+.a5{
+    width: 200px;
+    height: 200px;
+    background-image: url(/rasv.jpg);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    background-size: cover;
+}
+.a6{
+    width: 200px;
+    height: 200px;
+    background-image: url(/z.jpg);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    background-size: cover;
+}
+.a7{
+    width: 200px;
+    height: 200px;
+    background-image: url(/s.jpg);
+    border-radius: 10px;
+    box-shadow: 5px 5px 5px black;
+    background-size: cover;
+}
